@@ -1,0 +1,15 @@
+/Users/Wrichardson/Desktop/Prime/Tier3/c-sharp/c-sharp-intro/bin/Debug/net6.0/c-sharp-intro
+/Users/Wrichardson/Desktop/Prime/Tier3/c-sharp/c-sharp-intro/bin/Debug/net6.0/c-sharp-intro.deps.json
+/Users/Wrichardson/Desktop/Prime/Tier3/c-sharp/c-sharp-intro/bin/Debug/net6.0/c-sharp-intro.runtimeconfig.json
+/Users/Wrichardson/Desktop/Prime/Tier3/c-sharp/c-sharp-intro/bin/Debug/net6.0/c-sharp-intro.dll
+/Users/Wrichardson/Desktop/Prime/Tier3/c-sharp/c-sharp-intro/bin/Debug/net6.0/c-sharp-intro.pdb
+/Users/Wrichardson/Desktop/Prime/Tier3/c-sharp/c-sharp-intro/obj/Debug/net6.0/c-sharp-intro.csproj.AssemblyReference.cache
+/Users/Wrichardson/Desktop/Prime/Tier3/c-sharp/c-sharp-intro/obj/Debug/net6.0/c-sharp-intro.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Wrichardson/Desktop/Prime/Tier3/c-sharp/c-sharp-intro/obj/Debug/net6.0/c-sharp-intro.AssemblyInfoInputs.cache
+/Users/Wrichardson/Desktop/Prime/Tier3/c-sharp/c-sharp-intro/obj/Debug/net6.0/c-sharp-intro.AssemblyInfo.cs
+/Users/Wrichardson/Desktop/Prime/Tier3/c-sharp/c-sharp-intro/obj/Debug/net6.0/c-sharp-intro.csproj.CoreCompileInputs.cache
+/Users/Wrichardson/Desktop/Prime/Tier3/c-sharp/c-sharp-intro/obj/Debug/net6.0/c-sharp-intro.dll
+/Users/Wrichardson/Desktop/Prime/Tier3/c-sharp/c-sharp-intro/obj/Debug/net6.0/refint/c-sharp-intro.dll
+/Users/Wrichardson/Desktop/Prime/Tier3/c-sharp/c-sharp-intro/obj/Debug/net6.0/c-sharp-intro.pdb
+/Users/Wrichardson/Desktop/Prime/Tier3/c-sharp/c-sharp-intro/obj/Debug/net6.0/c-sharp-intro.genruntimeconfig.cache
+/Users/Wrichardson/Desktop/Prime/Tier3/c-sharp/c-sharp-intro/obj/Debug/net6.0/ref/c-sharp-intro.dll
