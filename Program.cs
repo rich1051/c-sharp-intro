@@ -135,3 +135,47 @@ foreach (var numero in numeros)
 {
     Console.WriteLine("Item: " + numero);
 }
+
+// Opposites Attract codewars test:
+public class LoveDetector
+{
+    public static bool lovefunc(int flower1, int flower2)
+    {
+        //Moment of truth...
+        if ((flower1 % 2 == 0 && flower2 % 2 != 0) || (flower1 % 2 != 0 && flower2 % 2 == 0))
+        {
+            return true;
+        }
+        else
+        {
+            return false;
+        }
+    }
+}
+
+// You Only Need One codewars test:
+public class Kata
+{
+    public static bool Check(object[] a, object x)
+    {
+        foreach (var item in a)
+        {
+            if (item.Equals(x))
+            {
+                return true;
+            }
+        }
+
+        return false;
+    }
+}
+
+// Sum of Positive codewars test:
+public class Kata
+{
+    public static int PositiveSum(int[] arr)
+    {
+        int sum = arr.Where(x => x > 0).Sum();
+        return sum;
+    }
+}
